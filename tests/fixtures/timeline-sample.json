@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "matchId": "JP1_1234567890"
+  },
+  "info": {
+    "participants": [
+      "puuid-me-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "puuid-opp-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "puuid-3333333333333333333333333333333333333333333333333333333333333333333333333333333333",
+      "puuid-4444444444444444444444444444444444444444444444444444444444444444444444444444444444",
+      "puuid-5555555555555555555555555555555555555555555555555555555555555555555555555555555555",
+      "puuid-6666666666666666666666666666666666666666666666666666666666666666666666666666666666",
+      "puuid-7777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+      "puuid-8888888888888888888888888888888888888888888888888888888888888888888888888888888888",
+      "puuid-9999999999999999999999999999999999999999999999999999999999999999999999999999999999",
+      "puuid-0000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    ],
+    "frames": [
+      {
+        "timestamp": 0,
+        "participantFrames": {
+          "1": { "participantId": 1, "totalGold": 500, "level": 1, "xp": 0, "minionsKilled": 0, "jungleMinionsKilled": 0 },
+          "2": { "participantId": 2, "totalGold": 500, "level": 1, "xp": 0, "minionsKilled": 0, "jungleMinionsKilled": 0 },
+          "3": { "participantId": 3, "totalGold": 500, "level": 1, "xp": 0, "minionsKilled": 0, "jungleMinionsKilled": 0 },
+          "4": { "participantId": 4, "totalGold": 500, "level": 1, "xp": 0, "minionsKilled": 0, "jungleMinionsKilled": 0 },
+          "5": { "participantId": 5, "totalGold": 500, "level": 1, "xp": 0, "minionsKilled": 0, "jungleMinionsKilled": 0 },
+          "6": { "participantId": 6, "totalGold": 500, "level": 1, "xp": 0, "minionsKilled": 0, "jungleMinionsKilled": 0 },
+          "7": { "participantId": 7, "totalGold": 500, "level": 1, "xp": 0, "minionsKilled": 0, "jungleMinionsKilled": 0 },
+          "8": { "participantId": 8, "totalGold": 500, "level": 1, "xp": 0, "minionsKilled": 0, "jungleMinionsKilled": 0 },
+          "9": { "participantId": 9, "totalGold": 500, "level": 1, "xp": 0, "minionsKilled": 0, "jungleMinionsKilled": 0 },
+          "10": { "participantId": 10, "totalGold": 500, "level": 1, "xp": 0, "minionsKilled": 0, "jungleMinionsKilled": 0 }
+        },
+        "events": [
+          {
+            "type": "SKILL_LEVEL_UP",
+            "timestamp": 1000,
+            "participantId": 1,
+            "skillSlot": 1,
+            "levelUpType": "NORMAL"
+          },
+          {
+            "type": "ITEM_PURCHASED",
+            "timestamp": 5000,
+            "participantId": 1,
+            "itemId": 1055
+          }
+        ]
+      },
+      {
+        "timestamp": 900000,
+        "participantFrames": {
+          "1": { "participantId": 1, "totalGold": 4200, "level": 7, "xp": 5800, "minionsKilled": 68, "jungleMinionsKilled": 2 },
+          "2": { "participantId": 2, "totalGold": 3800, "level": 7, "xp": 5200, "minionsKilled": 20, "jungleMinionsKilled": 85 },
+          "3": { "participantId": 3, "totalGold": 4500, "level": 8, "xp": 6200, "minionsKilled": 90, "jungleMinionsKilled": 3 },
+          "4": { "participantId": 4, "totalGold": 4000, "level": 7, "xp": 5600, "minionsKilled": 85, "jungleMinionsKilled": 1 },
+          "5": { "participantId": 5, "totalGold": 2500, "level": 6, "xp": 4800, "minionsKilled": 10, "jungleMinionsKilled": 0 },
+          "6": { "participantId": 6, "totalGold": 3800, "level": 7, "xp": 5500, "minionsKilled": 60, "jungleMinionsKilled": 0 },
+          "7": { "participantId": 7, "totalGold": 3600, "level": 7, "xp": 5000, "minionsKilled": 15, "jungleMinionsKilled": 70 },
+          "8": { "participantId": 8, "totalGold": 4200, "level": 8, "xp": 6100, "minionsKilled": 88, "jungleMinionsKilled": 2 },
+          "9": { "participantId": 9, "totalGold": 3700, "level": 7, "xp": 5300, "minionsKilled": 78, "jungleMinionsKilled": 1 },
+          "10": { "participantId": 10, "totalGold": 2400, "level": 6, "xp": 4600, "minionsKilled": 8, "jungleMinionsKilled": 0 }
+        },
+        "events": [
+          {
+            "type": "SKILL_LEVEL_UP",
+            "timestamp": 900000,
+            "participantId": 1,
+            "skillSlot": 2,
+            "levelUpType": "NORMAL"
+          }
+        ]
+      },
+      {
+        "timestamp": 960000,
+        "participantFrames": {
+          "1": { "participantId": 1, "totalGold": 5200, "level": 9, "xp": 7800, "minionsKilled": 72, "jungleMinionsKilled": 2 },
+          "2": { "participantId": 2, "totalGold": 4800, "level": 8, "xp": 7200, "minionsKilled": 22, "jungleMinionsKilled": 95 },
+          "3": { "participantId": 3, "totalGold": 5500, "level": 9, "xp": 8200, "minionsKilled": 95, "jungleMinionsKilled": 3 },
+          "4": { "participantId": 4, "totalGold": 5000, "level": 9, "xp": 7600, "minionsKilled": 90, "jungleMinionsKilled": 1 },
+          "5": { "participantId": 5, "totalGold": 3500, "level": 8, "xp": 6800, "minionsKilled": 12, "jungleMinionsKilled": 0 },
+          "6": { "participantId": 6, "totalGold": 4800, "level": 8, "xp": 7500, "minionsKilled": 65, "jungleMinionsKilled": 0 },
+          "7": { "participantId": 7, "totalGold": 4400, "level": 8, "xp": 7000, "minionsKilled": 18, "jungleMinionsKilled": 78 },
+          "8": { "participantId": 8, "totalGold": 5200, "level": 9, "xp": 8100, "minionsKilled": 93, "jungleMinionsKilled": 2 },
+          "9": { "participantId": 9, "totalGold": 4600, "level": 8, "xp": 7300, "minionsKilled": 82, "jungleMinionsKilled": 1 },
+          "10": { "participantId": 10, "totalGold": 3200, "level": 7, "xp": 6600, "minionsKilled": 10, "jungleMinionsKilled": 0 }
+        },
+        "events": []
+      }
+    ]
+  }
+}
